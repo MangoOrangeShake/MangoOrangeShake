@@ -1,6 +1,6 @@
-- 👋 hi, i’m @MangoOrangeShake; future AppSec professional
-- 👀 i’m interested in turning sci-fi media into real life
-- 🌱 i'm currently learning WebDev and PenTesting
+- 👋 hi, i’m @MangoOrangeShake
+- 👀 C++, Node
+- 🌱 learning more and more everyday
 - 📫 contact: cjosephpaguia@gmail.com
 
 <!---
